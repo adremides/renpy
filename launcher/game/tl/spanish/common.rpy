@@ -486,7 +486,7 @@
 
     # 00preferences.rpy:355
     old "clipboard voicing"
-    new "voz en clipboard"
+    new "voz en portapapeles"
 
     # 00preferences.rpy:364
     old "debug voicing"
@@ -716,7 +716,7 @@ translate spanish strings:
 
     # _developer\developer.rpym:63
     old "Image Attributes"
-    new "Atrubutos de Imagen"
+    new "Atributos de Imagen"
 
     # _developer\developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -728,7 +728,7 @@ translate spanish strings:
 
     # _developer\developer.rpym:154
     old "Hide deleted"
-    new "Oculultar borrados"
+    new "Ocultar borrados"
 
     # _developer\developer.rpym:154
     old "Show deleted"
